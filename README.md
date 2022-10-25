@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Aaron kossam</h1>
-<img src="https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer-1024x512.jpg" width="600px" height="600px" style:border-radius:50px;;/>
+<img src="https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer-1024x512.jpg" width="300px" height="300px"/>
 <h3 align="center">A passionate frontend developer from Accra, Ghana</h3>
 
 - 🔭 I’m currently working on **My portfolio website**
